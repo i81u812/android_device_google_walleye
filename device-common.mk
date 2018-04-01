@@ -107,5 +107,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # ModemService
 PRODUCT_COPY_FILES += \
-  device/google/taimen/modemservice.xml:system/etc/sysconfig/modemservice.xml
+  device/google/walleye/modemservice.xml:system/etc/sysconfig/modemservice.xml
 
