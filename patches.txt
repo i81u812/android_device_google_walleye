@@ -1,1 +1,0 @@
-64118 http://gerrit.aicp-rom.com frameworks/base
